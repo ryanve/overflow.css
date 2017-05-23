@@ -1,0 +1,21 @@
+{
+  "name": "overflow.css",
+  "version": "0.0.0",
+  "description": "CSS overflow classes",
+  "author": "Ryan Van Etten",
+  "license": "ISC",
+  "main": "overflow.css",
+  "homepage": "https://github.com/ryanve/overflow.css",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryanve/overflow.css.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ryanve/overflow.css/issues"
+  },
+  "keywords": [
+    "css",
+    "overflow",
+    "functional-css"
+  ]
+}
