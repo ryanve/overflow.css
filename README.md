@@ -34,7 +34,7 @@ npm install overflow.css
 
 ## usage
 
-### example using both `overflow`
+### example using `overflow`
 
 ```html
 <blockquote
