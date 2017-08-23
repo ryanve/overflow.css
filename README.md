@@ -16,11 +16,11 @@ CSS `overflow` classes
 - `.ox-scroll`
 - `.ox-auto`
 
-### `overflow-y`````
+### `overflow-y`
 - `.oy-visible`
 - `.oy-hidden`
 - `.oy-scroll`
-- `.oy-auto`````
+- `.oy-auto`
 
 ## setup
 
