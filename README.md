@@ -11,16 +11,16 @@ CSS `overflow` classes
 - `.overflow-auto`
 
 ### `overflow-x`
-- `.overflow-x-visible`
-- `.overflow-x-hidden`
-- `.overflow-x-scroll`
-- `.overflow-x-auto`
+- `.ox-visible`
+- `.ox-hidden`
+- `.ox-scroll`
+- `.ox-auto`
 
-### `overflow-y`
-- `.overflow-y-visible`
-- `.overflow-y-hidden`
-- `.overflow-y-scroll`
-- `.overflow-y-auto`
+### `overflow-y`````
+- `.oy-visible`
+- `.oy-hidden`
+- `.oy-scroll`
+- `.oy-auto`````
 
 ## setup
 
@@ -52,7 +52,7 @@ npm install overflow.css
 
 ```html
 <blockquote
-  class="overflow-y-auto overflow-x-hidden"
+  class="oy-auto ox-hidden"
   cite="https://drafts.csswg.org/css-overflow-3/#overflow-properties">
   <p>The overflow-x property specifies the handling of overflow in the horizontal direction
     (i.e., overflow from the left and right sides of the box), and the overflow-y property
